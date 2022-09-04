@@ -1,0 +1,26 @@
+[21-Aug-2022 20:37:22 UTC] PHP Fatal error:  Cannot redeclare get_posts() (previously declared in /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-includes/post.php:2374) in /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-content/themes/cv-template/functions.php on line 62
+[21-Aug-2022 20:37:22 UTC] PHP Stack trace:
+[21-Aug-2022 20:37:22 UTC] PHP   1. {main}() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-admin/admin-ajax.php:0
+[21-Aug-2022 20:37:22 UTC] PHP   2. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-admin/admin-ajax.php:22
+[21-Aug-2022 20:37:22 UTC] PHP   3. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-load.php:50
+[21-Aug-2022 20:37:22 UTC] PHP   4. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-config.php:91
+[21-Aug-2022 20:39:22 UTC] PHP Fatal error:  Cannot redeclare get_posts() (previously declared in /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-includes/post.php:2374) in /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-content/themes/cv-template/functions.php on line 62
+[21-Aug-2022 20:39:22 UTC] PHP Stack trace:
+[21-Aug-2022 20:39:22 UTC] PHP   1. {main}() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-admin/admin-ajax.php:0
+[21-Aug-2022 20:39:22 UTC] PHP   2. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-admin/admin-ajax.php:22
+[21-Aug-2022 20:39:22 UTC] PHP   3. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-load.php:50
+[21-Aug-2022 20:39:22 UTC] PHP   4. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-config.php:91
+[21-Aug-2022 20:40:52 UTC] PHP Fatal error:  Cannot redeclare get_posts() (previously declared in /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-includes/post.php:2374) in /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-content/themes/cv-template/functions.php on line 62
+[21-Aug-2022 20:40:52 UTC] PHP Stack trace:
+[21-Aug-2022 20:40:52 UTC] PHP   1. {main}() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/index.php:0
+[21-Aug-2022 20:40:52 UTC] PHP   2. require() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/index.php:17
+[21-Aug-2022 20:40:52 UTC] PHP   3. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-blog-header.php:13
+[21-Aug-2022 20:40:52 UTC] PHP   4. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-load.php:50
+[21-Aug-2022 20:40:52 UTC] PHP   5. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-config.php:91
+[21-Aug-2022 20:41:40 UTC] PHP Fatal error:  Cannot redeclare get_posts() (previously declared in /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-includes/post.php:2374) in /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-content/themes/cv-template/functions.php on line 62
+[21-Aug-2022 20:41:40 UTC] PHP Stack trace:
+[21-Aug-2022 20:41:40 UTC] PHP   1. {main}() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/index.php:0
+[21-Aug-2022 20:41:40 UTC] PHP   2. require() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/index.php:17
+[21-Aug-2022 20:41:40 UTC] PHP   3. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-blog-header.php:13
+[21-Aug-2022 20:41:40 UTC] PHP   4. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-load.php:50
+[21-Aug-2022 20:41:40 UTC] PHP   5. require_once() /Users/jeffersonocampo/Local Sites/jeffdev/app/public/wp-config.php:91
